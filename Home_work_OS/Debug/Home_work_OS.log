@@ -1,0 +1,9 @@
+﻿  task10.cpp
+  task11.cpp
+  Создание кода...
+D:\VSprojects\Home_work_OS\Home_work_OS\task11.cpp(33,9): warning C4068:  неизвестная директива pragma
+task10.obj : error LNK2005: "void __cdecl fill(int *,int)" (?fill@@YAXPAHH@Z) єцх юяЁхфхыхэ т Home_work_OS.obj
+task10.obj : error LNK2005: _main єцх юяЁхфхыхэ т Home_work_OS.obj
+task11.obj : error LNK2005: "void __cdecl fill(int *,int)" (?fill@@YAXPAHH@Z) єцх юяЁхфхыхэ т Home_work_OS.obj
+task11.obj : error LNK2005: _main єцх юяЁхфхыхэ т Home_work_OS.obj
+D:\VSprojects\Home_work_OS\Debug\Home_work_OS.exe : fatal error LNK1169: юсэрЁєцхэ ьэюуюъЁрЄэю юяЁхфхыхээ√щ ёшьтюы - юфшэ шыш сюыхх
